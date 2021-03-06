@@ -29,7 +29,7 @@ These dotfiles are intended to go with numerous suckless programs I use:
 Use [Cleveland Steamer](https://github.com/throal/cleveland-steamer) to autoinstall everything:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+curl -LO git.io/cstmr
 ```
 
 or clone the repo files directly to your home directory and install the
